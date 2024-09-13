@@ -8,10 +8,10 @@
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,git,github&theme=dark)](https://skillicons.dev)
 
 <a href="https://github.com/LuizFelipeSilveira/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSilveira&theme=nightowl" />
+  <img height=255 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSilveira&theme=nightowl" />
 </a>
 <a href="https://github.com/LuizFelipeSilveira/convoychat">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizFelipeSilveira&layout=donut-vertical&langs_count=8&card_width=320&theme=nightowl" />
+  <img height=255 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizFelipeSilveira&layout=donut-vertical&langs_count=8&card_width=320&theme=nightowl" />
 </a> 
 
 ##
