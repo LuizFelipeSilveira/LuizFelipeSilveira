@@ -1,8 +1,8 @@
 # Olá!
 
-- 🤖 Estudante de Data Science 
+- 🤖 Cientista de Dados em formação
 - 📚 ADA Tech | Instituto Infnet
-- ✨ Atualmente estudando Python | Banco de Dados| Estatística | Machine Learning
+- ✨ Python | SQL | Machine Learning | Estatística
 
 ## Main Stack
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,git,github&theme=dark)](https://skillicons.dev)
