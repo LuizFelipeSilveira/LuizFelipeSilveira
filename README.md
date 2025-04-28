@@ -1,4 +1,4 @@
-# Olá!
+![data_3](https://github.com/user-attachments/assets/fbf15367-172c-432f-bc36-32afe8a84e5b)
 
 - 🤖 Cientista de Dados em formação
 - 📚 ADA Tech | Instituto Infnet
@@ -16,4 +16,4 @@
 
 ##
 
-![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/user-attachments/assets/74ec2878-2a67-4702-8148-3b71c0c952e7)
+![data_4](https://github.com/user-attachments/assets/894ba98b-63a1-4bda-bff1-dae17e2743bc)
