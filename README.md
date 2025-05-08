@@ -1,20 +1,16 @@
 ![data_3](https://github.com/user-attachments/assets/fbf15367-172c-432f-bc36-32afe8a84e5b)
-## Sobre
-- ✨ **Python | SQL | Machine Learning | Estatística**
-- 🤖 **Cientista de Dados em formação**
-- 📚 **ADA Tech | Instituto Infnet**
 
-
-## Main Stack
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,docker,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-<a href="https://github.com/LuizFelipeSilveira/github-readme-stats">
-  <img height=255 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeSilveira&theme=nightowl" />
-</a>
-<a href="https://github.com/LuizFelipeSilveira/convoychat">
-  <img height=255 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizFelipeSilveira&layout=donut-vertical&langs_count=8&card_width=320&theme=nightowl" />
-</a> 
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img height=193 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizFelipeSilveira&theme=radical" />
+  </a>
+  <img height=193 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuizFelipeSilveira&theme=radical&utcOffset=-3" />
+</div>
 
 ##
+  <div align="center" >
+    
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,docker,git,github,vscode&theme=dark)](https://skillicons.dev)
 
-![data_4](https://github.com/user-attachments/assets/894ba98b-63a1-4bda-bff1-dae17e2743bc)
+
+
