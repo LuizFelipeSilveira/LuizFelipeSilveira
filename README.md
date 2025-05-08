@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height=193 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizFelipeSilveira&theme=radical" />
+    <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizFelipeSilveira&theme=radical" />
   </a>
-  <img height=193 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuizFelipeSilveira&theme=radical&utcOffset=-3" />
+  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuizFelipeSilveira&theme=radical&utcOffset=-3" />
 </div>
 
 ##
